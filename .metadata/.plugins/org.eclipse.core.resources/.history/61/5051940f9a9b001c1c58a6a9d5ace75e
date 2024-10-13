@@ -1,0 +1,12 @@
+package a4_interface4;
+
+public class A2 extends A1 {
+
+	public static void main(String[] args) {
+		m5();
+	}	
+	
+	
+	
+	
+}

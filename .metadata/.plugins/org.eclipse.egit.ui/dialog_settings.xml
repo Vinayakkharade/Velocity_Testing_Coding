@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/avdhut18/Katraj8Jan2022Maven.git"/>
+		<item value="https://github.com/avdhut18/PomDesign8Jan15Jan.git"/>
+		<item value="vinayakkharade@Avdhut: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"/>
+		<item value="https://github.com/avdhut18/Viman8Jan2022.git"/>
+		<item value="https://github.com/avdhut18/EncapsulationSecurity.git"/>
+	</list>
+	<section name="GitImportWizard">
+		<item key="GitProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+</section>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DemoSuite">
+	<parameter name="browserName" value="chrome" />
+	<parameter name="url"
+		value="https://opensource-demo.orangehrmlive.com/" />
+	<parameter name="username" value="Admin" />
+	<parameter name="password" value="admin123" />
+	<test name="OrangeHrmtest">
+
+		<classes>
+			<class name="d_TestNgParameter.TestNGparameter">
+				<methods>
+					<include name="LauchOrangeHRM" />
+					<include name="Login" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite> 
+

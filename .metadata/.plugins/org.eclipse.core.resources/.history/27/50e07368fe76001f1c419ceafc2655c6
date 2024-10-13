@@ -1,0 +1,22 @@
+package Practice_2024;
+
+public class a1 {
+	
+	public void NonStaticMethod() {
+		System.out.println("non static method-m1");
+	}
+	
+	public static void main(String[] args) {
+		
+		a1 obj1=new a1();
+		obj1.NonStaticMethod();
+		
+		obj1.NonStaticMethod();
+		
+		System.out.println("main method");
+		
+		
+		
+	}
+
+}

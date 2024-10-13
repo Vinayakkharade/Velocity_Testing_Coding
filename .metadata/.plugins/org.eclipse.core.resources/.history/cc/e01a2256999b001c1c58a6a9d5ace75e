@@ -1,0 +1,12 @@
+package a4_interface4;
+
+public interface A1{
+	
+	void m1();
+	void m2();
+
+	public static void m6() {
+		System.out.print("m6 static method");
+	}
+	
+}

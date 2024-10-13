@@ -1,0 +1,9 @@
+package a8inheritence_prc3;
+
+public class Child extends ParentClass{
+	
+public static void main(String[]args) {
+	child obj=new child();
+}
+
+}

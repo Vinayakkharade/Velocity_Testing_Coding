@@ -1,0 +1,9 @@
+package a4_interface4;
+
+public class A1{
+
+	public static void m5() {
+		System.out.print("m5 static method");
+	}
+	
+}

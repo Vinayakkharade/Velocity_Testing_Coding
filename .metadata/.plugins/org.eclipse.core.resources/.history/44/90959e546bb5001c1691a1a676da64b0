@@ -1,0 +1,23 @@
+package A_launchbrowser;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class C_BrowserCommands {
+
+	static WebDriver driver;
+	public static void main(String[] args) throws InterruptedException {
+
+		System.setProperty("webdriver.chrome.driver","C:/SOFTWARE/Velocity/Selenium/chromedriver/chromedriver_win32/chromedriver.exe");
+		System.setProperty("webdriver.gecko.driver","C:/SOFTWARE/Selenium/Browser/geckodriver-v0.30.0-win64/geckodriver.exe");
+		
+		driver=new ChromeDriver();
+		driver.get("https://www.youtube.com/");
+		driver.manage().window().maximize();
+		
+		
+	}
+	
+	
+	
+}

@@ -1,0 +1,10 @@
+package a_selenium_Project;
+
+public class ss {
+
+}
+//1.What is the need of test NG xml file?
+//2. what is testNg xml.file?-- It is a configuration file which consist details like 
+// which test cases we want to execute,how many times we want to execute,in which order we want 
+// to execute ,all the information of execution. these all things are mentoned in xml file
+//

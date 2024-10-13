@@ -1,0 +1,15 @@
+package a4_interface4;
+
+public interface A2 extends A1 {
+
+	void m3();
+	void m4() {
+		
+		
+	}
+	
+	public static void main(String[] args) {
+		m4();
+	}
+	
+}

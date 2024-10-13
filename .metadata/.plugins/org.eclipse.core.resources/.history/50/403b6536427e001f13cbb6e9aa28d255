@@ -1,0 +1,17 @@
+package Java_Simple_Program_2024;
+
+public class typeCasting {
+
+	public static void main(String[] args) {
+		
+		//Widening--lower data into the higher data type(shot>>int)
+		
+		short a=10;
+		
+		int b=(int)a;
+		
+		System.out.println(b);
+		
+		
+	}
+}

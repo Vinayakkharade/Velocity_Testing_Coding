@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DemoSuite">
+	<test name="OrangeHrmLogin" enabled="false">
+		<classes>
+			<class name="a_selenium_Project.A_OrangeHrmLogin">
+				<methods>
+					<include name="logintest" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="a_TestGoogle">
+		<classes>
+			<class name="a_selenium_Project.a_TestGoogle">
+				<methods>
+					<include name="testChrome" />
+					<include name="amazon" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+
+
+</suite> 

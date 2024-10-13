@@ -1,0 +1,8 @@
+package a4_interface4;
+
+public interface A2 {
+
+	void m3();
+	void m4();
+	
+}

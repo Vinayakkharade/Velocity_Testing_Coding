@@ -1,0 +1,17 @@
+package a5_constructor;
+
+public class Prc3 {
+int a;
+boolean b;
+  void m1()
+  {
+	System.out.println(a+" "+b);
+	
+  }
+  public static void main(String[]args) {
+	  Prc3 obj=new Prc3();
+	  obj.m1();
+  
+  }
+}
+

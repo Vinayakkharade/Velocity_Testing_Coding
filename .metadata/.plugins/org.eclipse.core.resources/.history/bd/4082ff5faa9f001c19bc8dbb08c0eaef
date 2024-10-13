@@ -1,0 +1,21 @@
+package arraypractice;
+
+public class ArrayLength {
+public static void main(String[] args) {
+	int[]ar={10,35,12,87};
+	int length=ar.length;
+	
+	System.out.println(ar.length);
+	
+	
+	for(int i=0;i<length;i++)
+	{
+		System.out.println(ar[i]);
+		
+	}
+	
+}																					
+	
+	
+	
+}

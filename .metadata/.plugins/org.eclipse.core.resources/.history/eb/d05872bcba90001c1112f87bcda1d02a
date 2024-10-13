@@ -1,0 +1,13 @@
+package a5_constructor;
+
+public class Prc3 {
+
+	
+  
+  public static void main(String[]args) {
+	  Prc3 obj=new Prc3();
+	 
+  
+  }
+}
+
