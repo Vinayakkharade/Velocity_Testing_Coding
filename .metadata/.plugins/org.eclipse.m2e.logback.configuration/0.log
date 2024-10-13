@@ -8009,3 +8009,20 @@ org.eclipse.core.runtime.CoreException: Launch configuration LoginTestClass1.ver
 2024-10-05 10:09:33,608 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-10-05 10:09:33,608 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinuk\ECLIPSE\MavenFramework\src\test\resources
 2024-10-05 18:26:10,087 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-13 08:52:44,468 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-13 09:07:23,102 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-13 09:07:23,111 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-13 09:07:23,114 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-13 09:07:23,117 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-13 09:07:33,609 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-13 09:07:33,609 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinuk\ECLIPSE\A_V8janmaven1\src\main\resources
+2024-10-13 09:07:33,611 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-13 09:07:33,611 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinuk\ECLIPSE\A_V8janmaven1\src\test\resources
+2024-10-13 09:07:43,463 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-13 09:07:43,464 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinuk\git\Katraj8Jan2022Maven1\Katraj8Jan2022BatchMaven\src\main\resources
+2024-10-13 09:07:43,465 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-13 09:07:43,466 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinuk\git\Katraj8Jan2022Maven1\Katraj8Jan2022BatchMaven\src\test\resources
+2024-10-13 09:07:44,111 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-13 09:07:44,111 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinuk\ECLIPSE\MavenFramework\src\main\resources
+2024-10-13 09:07:44,111 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-13 09:07:44,113 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinuk\ECLIPSE\MavenFramework\src\test\resources
